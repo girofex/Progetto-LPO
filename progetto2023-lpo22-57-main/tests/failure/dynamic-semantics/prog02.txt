@@ -1,0 +1,2 @@
+print [-1;4] //  Dynamic error: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 4
+

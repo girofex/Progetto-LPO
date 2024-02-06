@@ -1,0 +1,2 @@
+foreach v in [2;3] print v // Syntax error: on line 1: Expecting OPEN_BLOCK, found PRINT('print')
+

@@ -1,0 +1,1 @@
+print !([0;3]==(0,3)) // Static error: Found (INT*INT), expected VECT, prints true with option -ntc
